@@ -1,17 +1,17 @@
-# Amazon Sales Data Analysis 📊
+# Amazon Sales Data Analysis 
 
 **Internship Task:** Data Analysis | Business Insights | Visualization  
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn), Plotly, LaTeX
 
 ---
 
-## 🔍 Objective
+##  Objective
 Analyze Amazon sales data to extract actionable insights for business improvement.  
 The dataset includes order-level information such as date, product category, fulfillment method, quantity, amount, location, and more.
 
 ---
 
-## ✅ Key Tasks Completed
+##  Key Tasks Completed
 
 ### 1. Data Cleaning & Preparation
 - Converted date and amount fields to proper formats
@@ -40,7 +40,7 @@ The dataset includes order-level information such as date, product category, ful
 
 ---
 
-## 📈 Insights & Recommendations
+##  Insights & Recommendations
 
 - Shift high-performing SKUs to Amazon FBA for better reliability
 - Investigate high cancellation rates in Merchant fulfillment
@@ -49,14 +49,14 @@ The dataset includes order-level information such as date, product category, ful
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - Customer-level insights were limited due to lack of unique identifiers
 - A more complete dataset with customer info would allow advanced segmentation (RFM, LTV, etc.)
 
 ---
 
-## 📅 Timeline
+##  Timeline
 
 - **Analysis Duration:** ~1 month
 - **Submission Date:** `28-06-2025`
